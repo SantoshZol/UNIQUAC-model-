@@ -1,7 +1,6 @@
 % UNIQUAC PROBLEM
 % DATE : 19-01-21
 % NAME : SANTOSH M. ZOL
-% ROLL NO : J19IMT648
 
 clear all
 clc
